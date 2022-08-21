@@ -1,2 +1,10 @@
 # USELESS
-The first course work of the course "Computer technology" of the third semester.
+Программа *USELESS* (*UNIX SYSTEM EXTREMELY LATE EXECUTION SOFTWARE SYSTEM*), которая читает файл и запускает указанные в нем программы с указанной задержкой от времени старта программы *USELESS*. 
+
+Формат записи в файл:
+
+<время задержки в секундах> <программа для выполнения>
+
+Файл не является упорядоченным по временам задержки. 
+
+Реализованы **два варианта** программы. 
